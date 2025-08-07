@@ -17,7 +17,7 @@
     "colors": "^1.1.2",
     "conventional-github-releaser": "^2.0.0",
     "del": "^3.0.0",
-    "eslint": "^4.13.1",
+    "eslint": "^9.32.0",
     "eslint-plugin-standard": "^3.0.1",
     "gulp": "^3.9.1",
     "gulp-bump": "^2.9.0",
